@@ -1,0 +1,14 @@
+*.vscode
+.git
+.gitignore
+.pylintrc
+README*
+.env.*
+!.env
+venv
+react-frontend
+
+# Ignore all except for requirements.txt
+requirements.*
+requirements-dev.*
+!requirements.txt

@@ -1,0 +1,7 @@
+services:
+  app:
+    environment: 
+      INITIAL: 1
+      DEV : 1
+    volumes: 
+      - ./application:/usr/src/app

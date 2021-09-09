@@ -1,0 +1,15 @@
+fastapi[all]
+gunicorn
+aiofiles
+python-dotenv
+sqlalchemy
+psycopg2
+alembic
+passlib[bcrypt]
+pyjwt
+opencv-contrib-python-headless
+Pillow
+tensorflow
+keras
+networkx
+httpx

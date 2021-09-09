@@ -1,0 +1,8 @@
+{
+    "python.venvFolders": [
+        "application/venv"
+    ],
+    "python.analysis.extraPaths": [
+        "application"
+    ]
+}
